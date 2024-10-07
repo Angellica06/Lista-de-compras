@@ -6,4 +6,5 @@ Projeto desenvolvido em angular, lista de compras com as funcionalides de adicio
 
 
 Link do deploy: https://lista-de-compras1.netlify.app/
+
 ![Captura de tela 2024-10-07 201827](https://github.com/user-attachments/assets/c8d8e626-60c1-4da4-b33b-74f2c389cc2b)
