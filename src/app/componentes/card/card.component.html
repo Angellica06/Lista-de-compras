@@ -1,0 +1,60 @@
+<div class="col-lg-12 m-3">
+    <div class="card shadow m-2">
+        <div class="d-flex justify-content-center align-items-center text-center p-2">
+            <img class="img me-2" src="/pedido.png">
+            <h2>Lista de Compras</h2>
+        </div>
+        <div class="card-body p-0">
+            <div class="d-flex justify-content-center mb-3">
+                <input class="form-control me-2" [(ngModel)]="newItem" type="text" placeholder="Adicionar item">
+                <button class="btnAdd" (click)="adicionarItem()">
+                    <i class="fa-solid fa-plus"></i>
+                </button>
+            </div>
+
+            <h3 class="p-1">Não Comprados</h3>
+            <div>
+                <ul class="list">
+                    <li *ngFor="let item of items; let i = index">
+                        <div *ngIf="!item.purchased" class="d-flex justify-content-between align-items-center">
+                            <input *ngIf="item.isEditing" type="text" [(ngModel)]="item.name"
+                                (blur)="editItem(i, item.name)" />
+                            <span *ngIf="!item.isEditing" class="flex-grow-1">{{ item.name }}</span>
+                            <button class="btn" (click)="toggleEdit(i)">
+                                <i class="fa-solid fa-pen"></i>
+                            </button>
+                            <button (click)="togglePurchased(i)" class="btn">
+                                <i class="fa-solid fa-check"></i>
+                            </button>
+                            <button (click)="removeItem(i)" class="btnRemove">
+                                <i class="fa-solid fa-trash-can"></i>
+                            </button>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <h3 class="p-1">Comprados</h3>
+            <div>
+                <ul class="list">
+                    <li *ngFor="let item of items; let i = index">
+                        <div *ngIf="item.purchased" class="d-flex justify-content-between align-items-center">
+                            <input *ngIf="item.isEditing" type="text" [(ngModel)]="item.name"
+                                (blur)="editItem(i, item.name)" />
+                            <span class="flex-grow-1" *ngIf="!item.isEditing" style="text-decoration: line-through;">{{ item.name }}</span>
+                            <button class="btn" (click)="toggleEdit(i)">
+                                <i class="fa-solid fa-pen"></i>
+                            </button>
+                            <button (click)="togglePurchased(i)" class="btn">
+                                <i class="fa-solid fa-x"></i> 
+                            </button>
+                            <button (click)="removeItem(i)" class="btnRemove">
+                                <i class="fa-solid fa-trash-can"></i>
+                            </button>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
