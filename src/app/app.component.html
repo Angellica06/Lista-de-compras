@@ -1,15 +1,13 @@
-<style>
-  /* main {
-    width: 100%;
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  } */
-</style>
-
-<main class="d-flex justify-content-center">
-  <app-card></app-card>
-</main>
+<nav class="navbar navbar-light bg-dark mb-3">
+  <a class="navbar-brand text-light" href="#">
+    <img class="img me-2" src="/pedido.png">
+    Lista de Compras
+  </a>
+  <div>
+    <span *ngIf="user" class="text-light me-3">
+      <i class="fa-solid fa-user m-1"></i>{{ user.name }}</span>
+    <button class="btn btn-success me-3" *ngIf="isCardRoute" (click)="logOut()">Logout</button>
+  </div>
+</nav>
 
 <router-outlet />

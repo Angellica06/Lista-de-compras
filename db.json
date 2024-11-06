@@ -1,0 +1,412 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@exemplo.com"
+    }
+  ],
+  "shoppingList": [
+    {
+      "id": "1",
+      "name": "Macarrão",
+      "purchased": false,
+      "isEditing": false
+    },
+    {
+      "id": "8b2e",
+      "name": "Arroz",
+      "purchased": false,
+      "isEditing": false,
+      "userId": 0
+    },
+    {
+      "id": "6960",
+      "name": "Feijão",
+      "purchased": false,
+      "isEditing": false,
+      "userId": 0
+    },
+    {
+      "id": "3c69",
+      "name": "Arroz",
+      "purchased": false,
+      "isEditing": false
+    },
+    {
+      "id": "cdcf",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "ef18",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "b2d8",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "bbbe",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "88fc",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "0c56",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "3da3",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "ce5b",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "079b",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "2345",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "31a8",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "5c80",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "441f",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "daf6",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "0860",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "b3d2",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "73c6",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "9e6d",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "897c",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "fc3e",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "152d",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "883d",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "97f5",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "1fb1",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "06ba",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "a1c7",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "3212",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "4764",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "59af",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "cc8a",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "2954",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "b092",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "cfdc",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "bea0",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "7c11",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "5025",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "ad07",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "a893",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "dae8",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "0713",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "8d39",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "4047",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "1446",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "cbcf",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "e018",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "f4c4",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "a13e",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "c3d3",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "d7b1",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "ba75",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "14a0",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "97ee",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "0fe3",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "06e5",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "e4fd",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "5216",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "502f",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "a37a",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "7ec1",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "501b",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "b1f5",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "84f4",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "bd17",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "c4cd",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "4587",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "5538",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "3af6",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "1ade",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "5ed0",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "8f77",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "4fba",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "829f",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "2d45",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "6fe7",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    },
+    {
+      "id": "af32",
+      "name": "Angel oliveira",
+      "email": "angellica.anjos2@gmail.com"
+    }
+  ]
+}
