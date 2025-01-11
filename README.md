@@ -10,7 +10,7 @@ Para executar o servidor de endpoints de API, em um outro terminal na mesma past
 
 # Sobre
 
-Projeto desenvolvido em angular, lista de compras com as funcionalides de realizar o login a partir de uma conta do Google, adicionar um item a lista, podendo marcar como comprado ou não comprado, além de poder editar e remover o item. Projeto desenvolvido a partir de desafio da residência em software.
+Projeto desenvolvido em angular, lista de compras com as funcionalidades de realizar o login a partir de uma conta do Google, adicionar um item a lista, podendo marcar como comprado ou não comprado, além de poder editar e remover o item. Projeto desenvolvido a partir de desafio da residência em software.
 
 
 Link do deploy: https://lista-de-compras1.netlify.app/
